@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flight to Taipei</string>
+    <string name="tv1">Ticket Type</string>
+    <string name="chk1">One Way</string>
+    <string name="chk2">Round Trip</string>
+    <string name="tv2">Number of Pax</string>
+    <string name="btn1">-</string>
+    <string name="integer">int</string>
+    <string name="int1">+</string>
+    <string name="btn3">SUBMIT</string>
+</resources>
